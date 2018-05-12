@@ -1,0 +1,33 @@
+_repo: Food-Habits-of-the-Thrushes-of-the-United-StatesUSDA-Bulletin-280_33935
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Beal, F. E. L. (Foster Ellenborough Lascelles)
+    alias: Beal, Foster Ellenborough Lascelles
+    birthdate: 1840
+    deathdate: 1917
+    gutenberg_agent_id: '36716'
+    url: http://www.gutenberg.org/2009/agents/36716
+description: ''
+gutenberg_bookshelf:
+- Animals-Wild-Birds
+- Animal
+gutenberg_issued: '2010-10-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33935'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Birds'
+- !lcsh 'Thrushes -- Food'
+- !lcc 'QL'
+title: 'Food Habits of the Thrushes of the United States
+
+  USDA Bulletin 280'
+url: http://www.gutenberg.org/ebooks/33935
